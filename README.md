@@ -22,9 +22,9 @@ Our app is built on the idea that effective time management isn't just about sch
 
 ## Tech Stack
 
-Frontend: React
+Frontend: React.js
 
-Backend: Express
+Backend: Node.js, Express.js
 
 ## Features
 
