@@ -51,8 +51,6 @@ A customizable, distraction-free timer. Users can start a "Focus Session" for a 
 
 [gif goes here]
 
-### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
-
 ### Goal & Milestone Tracking
 
 Users can define long-term goals (e.g., "Complete Capstone Project," "Run a 5K"). They can then break these goals into smaller, actionable milestones and link daily tasks directly to them. This visually connects small efforts to the bigger picture, boosting motivation.
