@@ -6,9 +6,9 @@ Reference the Writing User Stories final project guide in the course portal for 
 
 [👉🏾👉🏾👉🏾 Include at least at least 1, but no more than 3, user roles.]
 
-* The Student: Juggling classes, assignments, exams, and a social life. They need a tool to organize academic deadlines, schedule study sessions, and avoid last-minute cramming.
-* The Professional / Freelancer: Managing multiple projects, client meetings, and tight deadlines. They need to prioritize high-impact work, track billable hours (or project time), and maintain a clear separation between work and personal life.
-* The Personal Growth Enthusiast: Focused on building habits, learning new skills, and achieving long-term personal goals (e.g., fitness, reading, side projects). They need a flexible tool to track progress and maintain consistency.
+* __Student__: A user interested in organizing their academic deadlines, scheduling study sessions, and avoiding last-minute cramming.
+* __Professional / Freelancer__: A user interested in managing multiple projects, client meetings, and tight deadlines. Needing to prioritize high-impact work, track billable hours (or project time), and maintain a clear separation between work and personal life.
+* __Personal Growth Enthusiast__: A user focused on building habits, learning new skills, and achieving long-term personal goals (e.g., fitness, reading, side projects). Needing a flexible tool to track progress and maintain consistency.
 
 ## Draft User Stories
 
