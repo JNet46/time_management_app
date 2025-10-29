@@ -25,6 +25,6 @@ Reference the Writing User Stories final project guide in the course portal for 
 9. As a Professional/Freelancer, I want to be able to drag and drop a scheduled task on the timeline to a new time, so that the app can intelligently adjust the rest of my schedule around it.
 10. As a Student, I want to receive a notification 24 hours before a major assignment is due, so that I have a final reminder to review my work.
 11. As any user, I want to add tasks using natural language (e.g., "Schedule a meeting with the team for tomorrow at 3 pm"), so that I can quickly capture my thoughts without navigating complex menus.
-12. As any user, I want create a profile, so I can access the web app's features.
+12. As any user, I want create a profile, so I can access the web app's features and save my schedules.
 
 
