@@ -21,7 +21,7 @@ This unit, be sure to complete all tasks listed below. To complete a task, place
 
 ### 1. What went well during this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+Topic and feature selection.
 
 ### 2. What were some challenges your group faced in this unit?
 
