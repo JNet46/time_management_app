@@ -15,18 +15,18 @@ This unit, be sure to complete all tasks listed below. To complete a task, place
 - [X] In `readme.md`: list a name and description for all features (minimum 6 for full points) you intend to include in your app (in future units, you will check off features as you complete them and add GIFs demonstrating the features)
 - [X] In `planning/user_stories.md`: add all user stories (minimum 10 for full points)
 - [X] In `planning/user_stories.md`: use 1-3 unique user roles in your user stories
-- [ ] In this document, complete all thre questions in the **Reflection** section below
+- [X] In this document, complete all thre questions in the **Reflection** section below
 
 ## Reflection
 
 ### 1. What went well during this unit?
 
-Topic and feature selection.
+* Topic and feature selection.
 
 ### 2. What were some challenges your group faced in this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+* Team member availability due to scheduling conflicts.
 
 ### 3. What additional support will you need in upcoming units as you continue to work on your final project?
 
-[👉🏾👉🏾👉🏾 your answer here]
+* Possible additional support may be needed in the search for libraries for the possible implementation of machine learning models.
