@@ -22,9 +22,9 @@ Our app is built on the idea that effective time management isn't just about sch
 
 ## Tech Stack
 
-Frontend: React
+Frontend: React.js
 
-Backend: Express
+Backend: Node.js, Express.js
 
 ## Features
 
@@ -50,8 +50,6 @@ An integrated feature based on the Eisenhower Matrix. When adding a task, users 
 A customizable, distraction-free timer. Users can start a "Focus Session" for a specific task. During this time, app notifications can be silenced, and the screen displays only the task at hand, a timer, and motivational quotes. It can also integrate with ambient soundscapes.
 
 [gif goes here]
-
-### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
 
 ### Goal & Milestone Tracking
 
