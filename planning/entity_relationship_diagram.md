@@ -45,26 +45,4 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## Add the Entity Relationship Diagram
 
-+----------+      +----------+      +----------------+
-|  User    |      |  Goal    |      |  FocusSession  |
-|----------|      |----------|      |----------------|
-| userID (PK)|--<| goalID (PK)|      | sessionID (PK) |
-| name     |   |--| userID (FK)|--<|--| userID (FK)    |
-| email    |   |  | title    |      |--| taskID (FK)    |
-| password |   |  | target_date|      | duration       |
-+----------+   |  +----------+      | startTime      |
-      |        |                      +----------------+
-      |        |
-      |        +---------------------------+
-      |                                    |
-+-----v----+      +----------+      +------------+
-|  Task    |      |  Habit   |      |  HabitLog  |
-|----------|      |----------|      |------------|
-| taskID(PK) |      | habitID(PK)|--<| logID (PK) |
-| userID(FK) |      | userID(FK) |   |--| habitID(FK)|
-| goalID(FK) |      | title      |      | date       |
-| title    |      | frequency  |      +------------+
-| priority |      +----------+
-| due_date |
-| status   |
-+----------+
+<img src='/images/Web103-Final-Project-Time-Management-App-Schema.png' title='Entity Relationship Diagram' width='' alt='Entity Relationship Diagram' />
