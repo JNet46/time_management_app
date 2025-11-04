@@ -45,4 +45,4 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## Add the Entity Relationship Diagram
 
-<img src='/images/Web103-Final-Project-Time-Management-App-Schema.png' title='Entity Relationship Diagram' width='' alt='Entity Relationship Diagram' />
+<img src='./images/Web103-Final-Project-Time-Management-App-Schema.png' title='Entity Relationship Diagram' width='' alt='Entity Relationship Diagram' />
