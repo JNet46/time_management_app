@@ -26,15 +26,19 @@ Frontend: React.js
 
 Backend: Node.js, Express.js
 
+Database & Deployment: Render
+
+
+
 ## Features
 
-### Dynamic Timeline
+### Dynamic Timeline ✅
 
 A visual, intelligent calendar that goes beyond a simple schedule. Users input their tasks, appointments, and energy levels, and the Kairos algorithm suggests an optimal, fluid schedule for the day. It can automatically reschedule non-critical tasks if an unexpected meeting arises.
 
-[gif goes here]
+<img src='./planning/gifs/Timeline.gif' title='Timeline' width='' alt='Feature #1' />
 
-### Priority Matrix
+### Priority Matrix ✅
 
 An integrated feature based on the Eisenhower Matrix. When adding a task, users can quickly classify it as:
 - Urgent & Important (Do Now)
@@ -43,7 +47,7 @@ An integrated feature based on the Eisenhower Matrix. When adding a task, users 
 - Not Urgent & Not Important (Eliminate)
 - This immediately clarifies daily priorities.
 
-[gif goes here]
+<img src='./planning/gifs/Task Screen.gif' title='Task Screen' width='' alt='Feature #2' />
 
 ### Focus Mode
 
