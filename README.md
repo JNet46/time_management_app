@@ -1,5 +1,5 @@
 # Kairos - Time Management App
-## Project Repository link: https://github.com/Kairos-Moment/kairos-app
+##🔗 Link to Project Repository: https://github.com/Kairos-Moment/kairos-app
 
 CodePath WEB103 Final Project
 
