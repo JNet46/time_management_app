@@ -1,5 +1,5 @@
 # Kairos - Time Management App
-
+## Project link: https://github.com/Kairos-Moment/kairos-app
 
 CodePath WEB103 Final Project
 
