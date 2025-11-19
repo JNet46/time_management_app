@@ -61,14 +61,14 @@ Users can define long-term goals (e.g., "Complete Capstone Project," "Run a 5K")
 
 [gif goes here]
 
-### The Oracle - AI-Powered Insights:
+### The Oracle - AI-Powered Insights: ✅
 
 A smart assistant that learns user habits over time. The Oracle provides:
 - Weekly Productivity Reports: Showing where time was spent, peak focus hours, and task completion rates.
 - Proactive Suggestions: "You're usually most creative in the morning. I suggest working on your 'Design Mockup' task then."
 - Burnout Warnings: "You've scheduled 10 hours of high-intensity tasks back-to-back. Consider adding a break."
 
-[gif goes here]
+<img src='./planning/gifs/The Oracle Button.gif' title='The Oracle' width='' alt='Feature #5' />
 
 ### Habit Weaver
 
@@ -79,6 +79,6 @@ A dedicated section for building and tracking recurring habits. Users can set da
 
 
 
-## Installation Instructions
+## Deployment Link
 
-[instructions go here]
+https://kairos-app.onrender.com/
